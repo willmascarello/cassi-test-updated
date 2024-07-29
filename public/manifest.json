@@ -1,0 +1,8 @@
+{
+  "short_name": "Teste Cassi",
+  "name": "Teste de front-end para empresa Cassi",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#002D4B",
+  "background_color": "#ffffff"
+}
